@@ -881,7 +881,7 @@ section {
     margin-top: 2px;
     padding: 6px 10px;
     border-radius: 15px;
-    background: linear-gradient(180deg, #574826 0%, #3d3119 100%);
+    background: linear-gradient(180deg, #16A34A 0%, #166534 100%);
     border: 1px solid #6b5a2e;
     color: #f5d77a;
     font-family: "Cinzel", serif;
@@ -1670,7 +1670,7 @@ section {
     .countdown { gap: 7px; }
     .count-box { height: 82px; min-height: 82px; padding-left: 2px; padding-right: 2px; }
     .count-box span { font-size: 28px; }
-    .count-box small { margin-top: 7px; font-size: 5.5px; letter-spacing: 1px; }
+    .count-box small { margin-top: 7px; font-size: 9px; letter-spacing: 1px; }
 }
 
 
@@ -2186,7 +2186,7 @@ section {
     margin: 0;
     color: #f0c45e;
     font-family: "Cinzel", serif;
-    font-size: 9px;
+    font-size: 20px;
     font-weight: 700;
     letter-spacing: 2.8px;
     line-height: 1.2;
@@ -2992,7 +2992,7 @@ footer::before {
     .hot-pill { height: 30px; padding: 0 14px; font-size: 12px; }
     .jackpot-box h2 { margin-top: 27px; font-size: 42px; letter-spacing: -1px; }
     .jackpot-box h3 { margin-top: 13px; font-size: 20px; }
-    .jackpot-box p { max-width: 330px; margin-top: 15px; font-size: 9px; line-height: 1.7; }
+    .jackpot-box p { max-width: 330px; margin-top: 15px; font-size: 14px; line-height: 1.7; }
     .warning-pill { margin-top: 20px; font-size: 15px; }
     .live-draw { width: 100%; font-size: 10px; }
 }
@@ -3046,7 +3046,7 @@ footer::before {
     }
     .prize-icon, .trophy { width: 50px; height: 50px; }
     .prize-amount, .prize-card h3 { font-size: 40px; }
-    .prize-description, .prize-card p { max-width: 280px; font-size: 9px; }
+    .prize-description, .prize-card p { max-width: 280px; font-size: 14px; }
 }
 
 @media (max-width: 360px) {
@@ -3098,7 +3098,7 @@ footer::before {
     .feature-card { padding: 16px; gap: 12px; }
     .feature-icon { width: 46px; height: 46px; min-width: 46px; }
     .feature-card h3, .feature-content h3 { font-size: 14px; }
-    .feature-card p, .feature-content p { font-size: 8px; }
+    .feature-card p, .feature-content p { font-size: 13px; }
 }
 
 @media (min-width: 1100px) {
@@ -3140,7 +3140,7 @@ footer::before {
     .booking-section { padding-left: 12px; padding-right: 12px; }
     .booking-box { min-height: 310px; padding: 38px 15px 40px; }
     .booking-box h2 { max-width: 300px; font-size: 27px; }
-    .booking-box p { max-width: 285px; font-size: 9px; }
+    .booking-box p { max-width: 285px; font-size: 14px; }
     .booking-btn { width: 205px; height: 48px; }
 }
 
@@ -3222,7 +3222,7 @@ body { color: #fff8ee; }
         padding-right: 2px;
     }
     .count-box span { font-size: 28px; }
-    .count-box small { margin-top: 7px; font-size: 5.5px; letter-spacing: 1px; }
+    .count-box small { margin-top: 7px; font-size: 9px; letter-spacing: 1px; }
 }
 
 
@@ -3330,7 +3330,7 @@ body { color: #fff8ee; }
     .process-line { left: 40px; right: 40px; }
     .step-number { width: 54px; height: 54px; }
     .step-label, .process-step h3 { font-size: 15px; }
-    .process-step p { font-size: 9px; max-width: 190px; }
+    .process-step p { font-size: 14px; max-width: 190px; }
 }
 
 @media (max-width: 650px) {
@@ -3367,7 +3367,7 @@ body { color: #fff8ee; }
     .process-section h2 { font-size: 25px; }
     .process-section h2 .process-heading-icon { font-size: 22px; }
     .process-wrapper { max-width: 350px; gap: 30px; }
-    .process-step p { font-size: 9px; }
+    .process-step p { font-size: 14px; }
 }
 
 
@@ -3379,7 +3379,7 @@ body { color: #fff8ee; }
     .booking-section { width: 100%; padding: 60px 25px 70px; }
     .booking-box { min-height: 350px; padding: 50px 30px 55px; border-radius: 16px; }
     .booking-box h2 { max-width: 750px; font-size: 43px; }
-    .booking-box p { max-width: 650px; font-size: 12px; }
+    .booking-box p { max-width: 650px; font-size: 14px; }
 }
 
 @media (max-width: 650px) {
@@ -3404,6 +3404,6 @@ body { color: #fff8ee; }
     .booking-section { padding-left: 12px; padding-right: 12px; }
     .booking-box { min-height: 310px; padding: 38px 15px 40px; }
     .booking-box h2 { max-width: 300px; font-size: 27px; }
-    .booking-box p { max-width: 285px; font-size: 9px; }
+    .booking-box p { max-width: 285px; font-size: 14px; }
     .booking-btn { width: 205px; height: 48px; }
 }
