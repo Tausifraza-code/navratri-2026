@@ -14,7 +14,7 @@ function scrollToBooking() {
 }
 
 function redirectToSite() {
-  window.location.href = "https://setthelife.com";
+  window.location.href = "https://setthelife.com/register";
 }
 
 /* =========================================
