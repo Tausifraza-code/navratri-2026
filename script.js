@@ -14,7 +14,11 @@ function scrollToBooking() {
 }
 
 function redirectToSite() {
-  window.location.href = "https://setthelife.com/register";
+  fbq("track", "Subscribe");
+
+  setTimeout(function () {
+    window.location.href = "https://setthelife.com/register";
+  }, 300);
 }
 
 /* =========================================
